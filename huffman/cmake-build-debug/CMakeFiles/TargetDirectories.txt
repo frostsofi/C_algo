@@ -1,0 +1,3 @@
+C:/Users/frost/CLionProjects/hufffman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/frost/CLionProjects/hufffman/cmake-build-debug/CMakeFiles/hufffman.dir
+C:/Users/frost/CLionProjects/hufffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
